@@ -57,10 +57,6 @@ class Footer extends StatelessWidget {
                           SocialIcon(
                             icon: "assets/icons/twitter.svg",
                           ),
-                          Text(''),
-                          Text(''),
-                          Text(''),
-                          Text(''),
                         ],
                       )
                     ],

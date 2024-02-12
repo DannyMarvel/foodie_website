@@ -23,7 +23,7 @@ class BannerSection extends StatelessWidget {
           flex: 2,
           child: Column(
             children: [
-              Image.asset("assets/images/banner.png"),
+              Image.asset('assets/images/sanner.jpg'),
             ],
           ),
         )
