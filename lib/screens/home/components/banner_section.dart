@@ -56,15 +56,7 @@ class _MobBannerState extends State<MobBanner> {
         SizedBox(
           height: 30,
         ),
-         SizedBox(
-          height: 30,
-        ),
-         SizedBox(
-          height: 30,
-        ),
-         SizedBox(
-          height: 30,
-        ),
+        
         AboutSection(),
       ],
     );

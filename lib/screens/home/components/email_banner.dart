@@ -76,6 +76,9 @@ class EmailBanner extends StatelessWidget {
                         color: Colors.white,
                         size: 22,
                       ),
+                      SizedBox(),
+                      SizedBox(),
+                      SizedBox(),
                     ),
                   ],
                 )
